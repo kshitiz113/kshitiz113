@@ -79,10 +79,6 @@ class KshitizGangwar:
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Open+Source+%7C+AI+%26+ML+%7C+Computer+Vision;Building+Scalable+and+Intelligent+Systems;Consistency+over+Intensity+%F0%9F%9A%80" />
-
-<br><br>
-
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kshitiz113&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=79FF97&text_color=C9D1D9&ring_color=58A6FF&include_all_commits=true&count_private=true&custom_title=Kshitiz's%20GitHub%20Stats"/>
 
 <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kshitiz113&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
@@ -90,16 +86,6 @@ class KshitizGangwar:
 <br><br>
 
 <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=kshitiz113&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=79FF97&fire=FF6B6B&currStreakLabel=58A6FF"/>
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kshitiz113&theme=tokyonight" width="95%"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Focus-AI%20%7C%20Computer%20Vision%20%7C%20NLP-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Open%20Source-Active%20Contributor-79FF97?style=for-the-badge&logo=opensourceinitiative&logoColor=black"/>
-<img src="https://img.shields.io/badge/Tech%20Stack-Full%20Spectrum-FF6B6B?style=for-the-badge&logo=stackshare&logoColor=white"/>
 
 </div>
 
