@@ -177,8 +177,8 @@ class KshitizGangwar:
     </td>
     <td align="center" width="25%">
       <img src="https://img.shields.io/badge/2024--2026-IIIT%20Vadodara-58A6FF?style=for-the-badge&logo=calendar&logoColor=white" /><br><br>
-      <h3>🎭 Cultural Committee</h3>
-      <p><b>Core Member</b><br/>Event Logistics · Stavya Fest</p>
+      <h3>🧑‍🏫 Teaching Assistant</h3>
+      <p><b>Antenna & Wave Propagation</b><br/>Mentorship · Course Work</p>
     </td>
     <td align="center" width="25%">
       <img src="https://img.shields.io/badge/2023--2027-B.Tech-58A6FF?style=for-the-badge&logo=calendar&logoColor=white" /><br><br>
